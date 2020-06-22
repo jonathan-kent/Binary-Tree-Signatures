@@ -1,0 +1,21 @@
+
+svg{
+  overflow: visible;
+}
+
+line{
+  stroke-width: 3px;
+  stroke: #000000;
+}
+
+circle{
+  r: 10px;
+  stroke: black;
+  stroke-width: 1px;
+  fill: black;
+}
+
+.tree{
+  height: auto;
+  width: auto;
+}
