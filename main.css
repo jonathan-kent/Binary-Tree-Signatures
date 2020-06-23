@@ -10,9 +10,31 @@ line{
 
 circle{
   r: 10px;
-  stroke: black;
-  stroke-width: 1px;
   fill: black;
+}
+
+#rightChild{
+  position: absolute;
+  background-color: #696969;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+}
+
+#leftChild{
+  position: absolute;
+  background-color: #696969;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
 }
 
 .tree{
